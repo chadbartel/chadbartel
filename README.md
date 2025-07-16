@@ -16,4 +16,4 @@ You can learn more about me at my personal website here: [chadbartel.com](https:
 
 You can reach me through the following channel(s):
 
-- 📧 Email: *{sorry this is still under construction!}*
+- 📧 Email: `me@chadbartel.com`
