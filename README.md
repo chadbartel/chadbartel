@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Chad Bartel and welcome to my profile! ~🐦
 
-<!--
-**chadbartel/chadbartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### ♂️ *Pronouns: he/him/his* ♂️
 
-Here are some ideas to get you started:
+You can learn more about me at my personal website here: [chadbartel.com](https://chadbartel.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who?
+
+- 💻 Developer: Python, self-taught since 2013
+- 🏫 Education: B.S. in Mathematics
+- 👨‍💼 Position: Senior Application Developer
+- 🎵 Hobby: [Sometimes I make music](https://soundcloud.com/thatsmidnight)
+- 💖 Interests: reading, listening to music, walking my dog
+
+## Contact?
+
+You can reach me through the following channel(s):
+
+- 📧 Email: *{sorry this is still under construction!}*
